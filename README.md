@@ -13,17 +13,18 @@
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pablo-Javaeight="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Pablo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Pablo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Pablo-Arduino" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
 </div>
 
 
   ##
    
-- Atualmente estou cursando graduação em engenharia de computação.
+- Graduado em Engenharia de Computação.
 - Tenho conhecimento em muitas linguagens de programação como: C, C++, Java, Python, PHP, Java Script, também linguagens linguagens de marcação como HTML, Latex e Markdown.
 - Durante graduação, além de utilizar das linguagens mencionadas, também utilizei muito a linguagem de descrição de hardware verilog e gosto de programar dispositivos programaveis como arduino e fpga.
-- Possuo conhecimento e muito interesse em aprofundar meus conhecimentos em desenvolvimento de aplicações Web e mobile utilizando React, React Native, Nodejs. 
+- Possuo conhecimento e muito interesse em aprofundar meus conhecimentos em desenvolvimento de aplicações Web e mobile utilizando React, React Native, Nodejs. Atualmente atuo utilizando tecnologias PHP, Postgresql, Docker, JavaScript.
 - Dê uma olhada na minha página de apresentação e portifólio: https://pablohsgc.github.io/
                               
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
